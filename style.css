@@ -41,3 +41,18 @@ body
     padding-top: 8vw;
     margin-right: 5.2vw;
 }
+
+.section-one{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+    background-color: antiquewhite;
+    padding: 15vw;
+}
+
+.box
+{
+    padding: 8vw;
+    border: 2px solid black;
+}
