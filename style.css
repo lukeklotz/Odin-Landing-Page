@@ -90,3 +90,52 @@ body
     align-items: center;
     padding: 10vw;
 }
+
+.call-to-action
+{
+    color: rgb(255, 255, 255);
+    font-size: 2.4vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(220, 220, 249);
+    padding: 4.2vw;
+}
+.action-text
+{
+    border: 8px solid rgb(255, 255, 255);
+    background-color: rgb(107, 107, 166);
+    padding: 3vw;
+    border-radius: 10vw;
+}
+
+#boink-button
+{
+    margin-top: 10px;
+    background-color: #ffffff;
+    border: none;
+    color: rgb(8, 7, 7);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 16px;
+    border-radius: 10vw;
+    margin-left: 40vw;
+}
+
+#boink-button:hover
+{
+    cursor: pointer;
+}
+
+.footer
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
